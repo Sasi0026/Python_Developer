@@ -13,7 +13,7 @@ For me, Python is not just a language — it is the sword I wield. The projects 
 | # | Project | Tech Stack | Status |
 |---|---------|------------|--------|
 | 1 | [ArXiv Research Paper Scraper](#1-arxiv-research-paper-scraper) | `Python` `Streamlit` `BeautifulSoup` `Requests` | ✅ Completed |
-| 2 | [SprintRunner — OOP Timer App](#2-sprintrunner--oop-timer-app) | `Python` `OOP` `Threading` | 🔄 In Progress |
+| 2 | [SprintRunner — OOP Timer App](#2-sprintrunner--oop-timer-app) | `Python` `OOP` `Threading` | ✅ Completed |
 | 3 | [Google Search Automation](#3-google-search-automation) | `Python` `Selenium` `WebDriver` `CDP` | ✅ Completed |
 
 ---
@@ -47,7 +47,7 @@ Manually browsing arXiv for relevant research is time-consuming and unstructured
 ## 2. SprintRunner — OOP Timer App
 
 🔗 **Repository:** [Sasi0026/SprintRunner](https://github.com/Sasi0026/SprintRunner)  
-🔄 **Status: In Progress**
+
 
 ### Overview
 A Python-based productivity timer application built entirely using Object-Oriented Programming principles. SprintRunner allows users to define a total task duration, divide it into focused work blocks, and triggers an alarm at the completion of each block — keeping the user on track without manual clock-watching.
@@ -68,7 +68,6 @@ Context switching and losing track of time during deep work sessions. SprintRunn
 | OOP (Classes) | Timer, Block, Alarm architecture |
 | Threading *(planned)* | Non-blocking alarm execution |
 
-> 🚧 Active development — features being added. Contributions and feedback welcome.
 
 ---
 
